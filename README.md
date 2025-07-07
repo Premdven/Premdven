@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Premkumar</h1>
-<h3 align="center">Tech enthusiast passionate about Python, databases, and real-world problem solving</h3>
+<h3 align="center">Tech enthusiast passionate about Linux, Cloud, databases, and real-world problem solving</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=premkumardev&label=Profile%20views&color=0e75b6&style=flat" alt="premkumardev" /> </p>
 
 - 🌱 I’m currently exploring **Python, SQL, Cloud Computing, and Networking**  
 - 🛠️ Built a **low-cost NAS solution** using OpenMediaVault and old hardware  
-- 🎓 Final year BCA student passionate about applying tech in real-life scenarios  
+- 🎓 Recently completed my Bachelor's in Computer Applicatins & passionate about applying tech in real-life scenarios  
 - 📫 Reach me at: **premkumardevandran@gmail.com**  
 - 📄 Check out my resume: [Resume](https://your-resume-link.com) <!-- Replace with your actual resume link -->
 

@@ -6,7 +6,7 @@
 - 🌱 I’m currently exploring **Python, SQL, Cloud Computing, and Networking**  
 - 🛠️ Built a **low-cost NAS solution** using OpenMediaVault and old hardware  
 - 🎓 Final year BCA student passionate about applying tech in real-life scenarios  
-- 📫 Reach me at: **premkumardevendran@gmail.com**  
+- 📫 Reach me at: **premkumardevandran@gmail.com**  
 - 📄 Check out my resume: [Resume](https://your-resume-link.com) <!-- Replace with your actual resume link -->
 
 <h3 align="left">Connect with me:</h3>

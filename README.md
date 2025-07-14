@@ -7,7 +7,6 @@
 - 🛠️ Built a **low-cost NAS solution** using OpenMediaVault and old hardware  
 - 🎓 Recently completed my Bachelor's in Computer Applicatins & passionate about applying tech in real-life scenarios  
 - 📫 Reach me at: **premkumardevandran@gmail.com**  
-- 📄 Check out my resume: [Resume](https://your-resume-link.com) <!-- Replace with your actual resume link -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

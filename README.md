@@ -6,7 +6,7 @@
 - 🌱 I’m currently exploring **Python, SQL, Cloud Computing, and Networking**  
 - 🛠️ Built a **low-cost NAS solution** using OpenMediaVault and old hardware  
 - 🎓 Recently completed my Bachelor's in Computer Applicatins & passionate about applying tech in real-life scenarios  
-- 📫 Reach me at: **premd.tech@gmail.com**  
+  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -27,6 +27,6 @@
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=PremHQ&show_icons=true&locale=en&layout=compact" alt="PremHQ" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Premdven&show_icons=true&locale=en&layout=compact" alt="Premdven" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=PremHQ&show_icons=true&locale=en" alt="PremHQ" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Premdven&show_icons=true&locale=en" alt="Premdven" /></p>
